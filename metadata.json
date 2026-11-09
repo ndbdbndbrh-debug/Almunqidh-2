@@ -1,0 +1,6 @@
+{
+  "name": "المنقذ الدوائي",
+  "description": "تطبيق المنقذ الدوائي لقراءة وتحليل الوصفات الطبية بالذكاء الاصطناعي وأرشفتها تحت إشراف د.ص أنس يحيى باقاضي",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
